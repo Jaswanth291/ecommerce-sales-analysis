@@ -1,0 +1,5 @@
+metric,value
+delivered_orders_with_usable_dates,96470.0
+average_delivery_days,12.56
+late_orders,7826.0
+late_delivery_percentage,8.11
